@@ -1,0 +1,9 @@
+[package]
+name = "sheets_cypecad"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+encoding_rs = "0.8" 
+pdf = "0.9"       # Para manipulação de arquivos PDF
+
